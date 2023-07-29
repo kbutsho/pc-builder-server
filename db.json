@@ -1,19 +1,94 @@
 {
-  "posts": [
+  "cpu": [
     {
-      "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "image": "cpu1.jpg",
+      "name": "Intel Core i7-10700K",
+      "category": "CPU",
+      "status": "In Stock",
+      "Price": 349.99,
+      "description": "The Intel Core i7-10700K is a high-performance processor designed for gaming and intensive tasks.",
+      "key-features": {
+        "brand": "Intel",
+        "model": "Core i7-10700K",
+        "specification": "8 cores, 16 threads",
+        "socket": "LGA1200",
+        "clock-speed": "3.8 GHz base, up to 5.1 GHz boost",
+        "tdp": "125W"
+      },
+      "rating": [
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 5
+        },
+        {
+          "username": "kbutsho",
+          "rating": 3
+        }
+      ],
+      "average-rating": 4,
+      "reviews": [
+        {
+          "username": "kbutsho",
+          "comment": "This CPU is a beast! It handles all my games with ease."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Great processor, but a bit expensive."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Perfect for content creation and multitasking."
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "id": 3,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+      "image": "cpu2.jpg",
+      "name": "AMD Ryzen 9 5900X",
+      "category": "CPU",
+      "status": "In Stock",
+      "Price": 449.99,
+      "description": "The AMD Ryzen 9 5900X is a powerful processor built for high-end computing and gaming.",
+      "key-features": {
+        "brand": "AMD",
+        "model": "Ryzen 9 5900X",
+        "specification": "12 cores, 24 threads",
+        "socket": "AM4",
+        "clock-speed": "3.7 GHz base, up to 4.8 GHz boost",
+        "tdp": "105W"
+      },
+      "rating": [
+        {
+          "username": "kbutsho",
+          "rating": 5
+        },
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 5
+        }
+      ],
+      "average-rating": 4.7,
+      "reviews": [
+        {
+          "username": "kbutsho",
+          "comment": "Absolutely stunning performance, no regrets!"
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Great CPU for gaming, but I expected slightly better performance."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "The Ryzen 9 5900X is a multitasking beast, and the price is reasonable."
+        }
+      ]
     }
   ]
 }
