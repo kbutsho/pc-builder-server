@@ -8,12 +8,12 @@
       "status": "In Stock",
       "Price": 349.99,
       "description": "The Intel Core i9-12700K is a high-performance processor designed for gaming and intensive tasks.",
-      "key-features": {
+      "keyFeatures": {
         "brand": "Intel",
         "model": "Core i7-10700K",
         "specification": "8 cores, 16 threads",
         "socket": "LGA1200",
-        "clock-speed": "3.8 GHz base, up to 5.1 GHz boost",
+        "clockSpeed": "3.8 GHz base, up to 5.1 GHz boost",
         "tdp": "125W"
       },
       "rating": [
@@ -30,7 +30,7 @@
           "rating": 3
         }
       ],
-      "average-rating": 4,
+      "averageRating": 4,
       "reviews": [
         {
           "username": "kbutsho",
@@ -54,12 +54,12 @@
       "status": "In Stock",
       "Price": 449.99,
       "description": "The AMD Ryzen 9 5900X is a powerful processor built for high-end computing and gaming.",
-      "key-features": {
+      "keyFeatures": {
         "brand": "AMD",
         "model": "Ryzen 9 5900X",
         "specification": "12 cores, 24 threads",
         "socket": "AM4",
-        "clock-speed": "3.7 GHz base, up to 4.8 GHz boost",
+        "clockSpeed": "3.7 GHz base, up to 4.8 GHz boost",
         "tdp": "105W"
       },
       "rating": [
@@ -76,7 +76,7 @@
           "rating": 5
         }
       ],
-      "average-rating": 4.7,
+      "averageRating": 4.7,
       "reviews": [
         {
           "username": "kbutsho",
@@ -105,7 +105,7 @@
         "model": "Ryzen 7 5800X",
         "specification": "8 cores, 16 threads",
         "socket": "AM4",
-        "clock-speed": "3.8 GHz base, up to 4.7 GHz boost",
+        "clockSpeed": "3.8 GHz base, up to 4.7 GHz boost",
         "tdp": "105W"
       },
       "rating": [
@@ -122,7 +122,7 @@
           "rating": 5
         }
       ],
-      "average-rating": 4.7,
+      "averageRating": 4.7,
       "reviews": [
         {
           "username": "kbutsho",
@@ -151,7 +151,7 @@
         "model": "Core i5-11600K",
         "specification": "6 cores, 12 threads",
         "socket": "LGA1200",
-        "clock-speed": "3.9 GHz base, up to 4.9 GHz boost",
+        "clockSpeed": "3.9 GHz base, up to 4.9 GHz boost",
         "tdp": "125W"
       },
       "rating": [
@@ -168,7 +168,7 @@
           "rating": 5
         }
       ],
-      "average-rating": 4.3,
+      "averageRating": 4.3,
       "reviews": [
         {
           "username": "kbutsho",
@@ -192,12 +192,12 @@
       "status": "In Stock",
       "Price": 399.99,
       "description": "The Intel Core i7-12600K is a high-performance processor designed for gaming and demanding applications.",
-      "key-features": {
+      "keyFeatures": {
         "brand": "Intel",
         "model": "Core i7-12600K",
         "specification": "8 cores, 16 threads",
         "socket": "LGA1700",
-        "clock-speed": "3.5 GHz base, up to 5.0 GHz boost",
+        "clockSpeed": "3.5 GHz base, up to 5.0 GHz boost",
         "tdp": "125W"
       },
       "rating": [
@@ -214,7 +214,7 @@
           "rating": 5
         }
       ],
-      "average-rating": 4.7,
+      "averageRating": 4.7,
       "reviews": [
         {
           "username": "kbutsho",
