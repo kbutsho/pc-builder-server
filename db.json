@@ -89,6 +89,141 @@
           "comment": "The Ryzen 9 5900X is a multitasking beast, and the price is reasonable."
         }
       ]
+    },
+    {
+      "image": "cpu4.jpg",
+      "name": "AMD Ryzen 7 5800X",
+      "category": "CPU",
+      "status": "In Stock",
+      "Price": 349.99,
+      "description": "The AMD Ryzen 7 5800X delivers excellent performance for gaming and content creation.",
+      "key-features": {
+        "brand": "AMD",
+        "model": "Ryzen 7 5800X",
+        "specification": "8 cores, 16 threads",
+        "socket": "AM4",
+        "clock-speed": "3.8 GHz base, up to 4.7 GHz boost",
+        "tdp": "105W"
+      },
+      "rating": [
+        {
+          "username": "kbutsho",
+          "rating": 5
+        },
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 5
+        }
+      ],
+      "average-rating": 4.7,
+      "reviews": [
+        {
+          "username": "kbutsho",
+          "comment": "The Ryzen 7 5800X is a creative powerhouse! Highly recommended."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Great CPU for gaming, but I expected better thermals."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Impressive performance and value for money."
+        }
+      ]
+    },
+    {
+      "image": "cpu3.jpg",
+      "name": "Intel Core i5-11600K",
+      "category": "CPU",
+      "status": "Out of stock",
+      "Price": 269.99,
+      "description": "The Intel Core i5-11600K is a capable processor for gaming and everyday computing tasks.",
+      "key-features": {
+        "brand": "Intel",
+        "model": "Core i5-11600K",
+        "specification": "6 cores, 12 threads",
+        "socket": "LGA1200",
+        "clock-speed": "3.9 GHz base, up to 4.9 GHz boost",
+        "tdp": "125W"
+      },
+      "rating": [
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 5
+        }
+      ],
+      "average-rating": 4.3,
+      "reviews": [
+        {
+          "username": "kbutsho",
+          "comment": "Good CPU for gaming, but I expected slightly better performance."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Budget-friendly and does the job well!"
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Fast and reliable processor for my daily tasks."
+        }
+      ]
+    },
+    {
+      "image": "cpu6.jpg",
+      "name": "Intel Core i7-12600K",
+      "category": "CPU",
+      "status": "In Stock",
+      "Price": 399.99,
+      "description": "The Intel Core i7-12600K is a high-performance processor designed for gaming and demanding applications.",
+      "key-features": {
+        "brand": "Intel",
+        "model": "Core i7-12600K",
+        "specification": "8 cores, 16 threads",
+        "socket": "LGA1700",
+        "clock-speed": "3.5 GHz base, up to 5.0 GHz boost",
+        "tdp": "125W"
+      },
+      "rating": [
+        {
+          "username": "kbutsho",
+          "rating": 5
+        },
+        {
+          "username": "kbutsho",
+          "rating": 4
+        },
+        {
+          "username": "kbutsho",
+          "rating": 5
+        }
+      ],
+      "average-rating": 4.7,
+      "reviews": [
+        {
+          "username": "kbutsho",
+          "comment": "Impressive performance in both gaming and productivity tasks."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "A great choice for content creators and power users."
+        },
+        {
+          "username": "kbutsho",
+          "comment": "Handles multitasking like a breeze!"
+        }
+      ]
     }
   ]
 }
