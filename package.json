@@ -1,0 +1,16 @@
+{
+  "name": "json-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json -p 8000"
+  },
+  "keywords": [],
+  "author": "kbutsho",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
