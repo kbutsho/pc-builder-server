@@ -6,7 +6,7 @@
       "name": "Intel Core i9-12700K",
       "category": "CPU",
       "status": "In Stock",
-      "Price": 349.99,
+      "price": 349.99,
       "description": "The Intel Core i9-12700K is a high-performance processor designed for gaming and intensive tasks.",
       "keyFeatures": {
         "brand": "Intel",
@@ -52,7 +52,7 @@
       "name": "AMD Ryzen 9 5900X",
       "category": "CPU",
       "status": "In Stock",
-      "Price": 449.99,
+      "price": 449.99,
       "description": "The AMD Ryzen 9 5900X is a powerful processor built for high-end computing and gaming.",
       "keyFeatures": {
         "brand": "AMD",
@@ -98,7 +98,7 @@
       "name": "AMD Ryzen 7 5800X",
       "category": "CPU",
       "status": "In Stock",
-      "Price": 349.99,
+      "price": 349.99,
       "description": "The AMD Ryzen 7 5800X delivers excellent performance for gaming and content creation.",
       "key-features": {
         "brand": "AMD",
@@ -144,7 +144,7 @@
       "name": "Intel Core i5-11600K",
       "category": "CPU",
       "status": "Out of stock",
-      "Price": 269.99,
+      "price": 269.99,
       "description": "The Intel Core i5-11600K is a capable processor for gaming and everyday computing tasks.",
       "key-features": {
         "brand": "Intel",
@@ -190,7 +190,7 @@
       "name": "Intel Core i7-12600K",
       "category": "CPU",
       "status": "In Stock",
-      "Price": 399.99,
+      "price": 399.99,
       "description": "The Intel Core i7-12600K is a high-performance processor designed for gaming and demanding applications.",
       "keyFeatures": {
         "brand": "Intel",
