@@ -2,12 +2,12 @@
   "cpu": [
     {
       "id": 1,
-      "image": "cpu1.jpg",
-      "name": "Intel Core i7-10700K",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900ks/i9-12900ks-01-228x228.jpg",
+      "name": "Intel Core i9-12700K",
       "category": "CPU",
       "status": "In Stock",
       "Price": 349.99,
-      "description": "The Intel Core i7-10700K is a high-performance processor designed for gaming and intensive tasks.",
+      "description": "The Intel Core i9-12700K is a high-performance processor designed for gaming and intensive tasks.",
       "key-features": {
         "brand": "Intel",
         "model": "Core i7-10700K",
@@ -48,7 +48,7 @@
     },
     {
       "id": 2,
-      "image": "cpu2.jpg",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-228x228.webp",
       "name": "AMD Ryzen 9 5900X",
       "category": "CPU",
       "status": "In Stock",
@@ -94,7 +94,7 @@
     },
     {
       "id": 3,
-      "image": "cpu4.jpg",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
       "name": "AMD Ryzen 7 5800X",
       "category": "CPU",
       "status": "In Stock",
@@ -140,7 +140,7 @@
     },
     {
       "id": 4,
-      "image": "cpu3.jpg",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-228x228.webp",
       "name": "Intel Core i5-11600K",
       "category": "CPU",
       "status": "Out of stock",
@@ -186,53 +186,7 @@
     },
     {
       "id": 5,
-      "image": "cpu6.jpg",
-      "name": "Intel Core i7-12600K",
-      "category": "CPU",
-      "status": "In Stock",
-      "Price": 399.99,
-      "description": "The Intel Core i7-12600K is a high-performance processor designed for gaming and demanding applications.",
-      "key-features": {
-        "brand": "Intel",
-        "model": "Core i7-12600K",
-        "specification": "8 cores, 16 threads",
-        "socket": "LGA1700",
-        "clock-speed": "3.5 GHz base, up to 5.0 GHz boost",
-        "tdp": "125W"
-      },
-      "rating": [
-        {
-          "username": "kbutsho",
-          "rating": 5
-        },
-        {
-          "username": "kbutsho",
-          "rating": 4
-        },
-        {
-          "username": "kbutsho",
-          "rating": 5
-        }
-      ],
-      "average-rating": 4.7,
-      "reviews": [
-        {
-          "username": "kbutsho",
-          "comment": "Impressive performance in both gaming and productivity tasks."
-        },
-        {
-          "username": "kbutsho",
-          "comment": "A great choice for content creators and power users."
-        },
-        {
-          "username": "kbutsho",
-          "comment": "Handles multitasking like a breeze!"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "image": "cpu6.jpg",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700k/core-i7-13700k-01-228x228.webp",
       "name": "Intel Core i7-12600K",
       "category": "CPU",
       "status": "In Stock",
