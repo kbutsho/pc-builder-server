@@ -485,6 +485,416 @@
           "comment": "Affordable and reliable option for a budget build."
         }
       ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-s2ph/ga-h81m-s2ph-228x228.jpg",
+      "name": "ASRock B560M-ITX/AC",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "ASRock B560M-ITX/AC is a compact Mini-ITX motherboard with built-in Wi-Fi.",
+      "keyFeatures": {
+        "brand": "ASRock",
+        "model": "B560M-ITX/AC",
+        "socket": "LGA1200",
+        "chipset": "Intel B560",
+        "memorySlots": "2x DDR4",
+        "expansionSlots": "1x PCIe x16",
+        "storage": "1x M.2, 4x SATA",
+        "ports": "USB 3.2 Gen 1, USB-C, HDMI, DisplayPort",
+        "formFactor": "Mini-ITX"
+      },
+      "rating": [
+        {
+          "username": "smallFormFactor",
+          "rating": 4.5
+        },
+        {
+          "username": "techEnthusiast",
+          "rating": 4
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "smallFormFactor",
+          "comment": "Great choice for compact builds."
+        },
+        {
+          "username": "techEnthusiast",
+          "comment": "Reliable performance and good Wi-Fi connectivity."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
+      "name": "MSI MAG B550 TOMAHAWK",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 189.99,
+      "description": "MSI MAG B550 TOMAHAWK is a gaming-focused motherboard with robust power delivery.",
+      "keyFeatures": {
+        "brand": "MSI",
+        "model": "MAG B550 TOMAHAWK",
+        "socket": "AM4",
+        "chipset": "AMD B550",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 2x PCIe x1",
+        "storage": "2x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamerX",
+          "rating": 5
+        },
+        {
+          "username": "enthusiastPC",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamerX",
+          "comment": "Perfect for high-performance gaming rigs."
+        },
+        {
+          "username": "enthusiastPC",
+          "comment": "Solid build quality and ample connectivity options."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/h81m-k/h81m-k-01-228x228.jpg",
+      "name": "GIGABYTE X570 AORUS Master",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 349.99,
+      "description": "GIGABYTE X570 AORUS Master is a high-end motherboard with advanced VRM and cooling features.",
+      "keyFeatures": {
+        "brand": "GIGABYTE",
+        "model": "X570 AORUS Master",
+        "socket": "AM4",
+        "chipset": "AMD X570",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 2x PCIe x1",
+        "storage": "3x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "hardwareEnthusiast",
+          "rating": 5
+        },
+        {
+          "username": "gamingMaster",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "hardwareEnthusiast",
+          "comment": "Top-tier motherboard with excellent power delivery."
+        },
+        {
+          "username": "gamingMaster",
+          "comment": "Ideal for both gaming and content creation."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/Gigabyte%20GA-H110M%20S2PH-DDR4-228x228.jpg",
+      "name": "ASUS TUF Gaming X570-PLUS",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 199.99,
+      "description": "ASUS TUF Gaming X570-PLUS is a reliable gaming motherboard with military-grade components.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "TUF Gaming X570-PLUS",
+        "socket": "AM4",
+        "chipset": "AMD X570",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 3x PCIe x1",
+        "storage": "2x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamingWarrior",
+          "rating": 4.5
+        },
+        {
+          "username": "techNinja",
+          "rating": 4
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "gamingWarrior",
+          "comment": "Reliable and sturdy motherboard for gaming battles."
+        },
+        {
+          "username": "techNinja",
+          "comment": "Good cooling and RGB lighting options."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://www.startech.com.bd/msi-h510m-pro-e-motherboard",
+      "name": "ASRock Z590 Extreme",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 249.99,
+      "description": "ASRock Z590 Extreme is a feature-packed motherboard with support for PCIe 4.0 and Thunderbolt 4.",
+      "keyFeatures": {
+        "brand": "ASRock",
+        "model": "Z590 Extreme",
+        "socket": "LGA1200",
+        "chipset": "Intel Z590",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 2x PCIe x1",
+        "storage": "3x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort, Thunderbolt 4",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "proGamerX",
+          "rating": 5
+        },
+        {
+          "username": "techGeek",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "proGamerX",
+          "comment": "Excellent performance with my Core i9 processor."
+        },
+        {
+          "username": "techGeek",
+          "comment": "Thunderbolt 4 support is a great addition."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h110m-ds2/ga-h110m-ds2-1-228x228.jpg",
+      "name": "MSI B460M PRO-VDH WIFI",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "MSI B460M PRO-VDH WIFI is a budget-friendly motherboard with built-in Wi-Fi connectivity.",
+      "keyFeatures": {
+        "brand": "MSI",
+        "model": "B460M PRO-VDH WIFI",
+        "socket": "LGA1200",
+        "chipset": "Intel B460",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "1x PCIe x16, 2x PCIe x1",
+        "storage": "1x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 1, USB-C, HDMI, DisplayPort",
+        "formFactor": "Micro-ATX"
+      },
+      "rating": [
+        {
+          "username": "budgetGamer",
+          "rating": 4
+        },
+        {
+          "username": "wiFiUser",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "budgetGamer",
+          "comment": "Good value for a gaming-oriented motherboard."
+        },
+        {
+          "username": "wiFiUser",
+          "comment": "Wi-Fi performance is reliable and stable."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h410m-h/h410m-h-228x228.jpg",
+      "name": "ASUS ROG Crosshair VIII Hero",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 399.99,
+      "description": "ASUS ROG Crosshair VIII Hero is a premium AMD motherboard with extensive overclocking features.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "ROG Crosshair VIII Hero",
+        "socket": "AM4",
+        "chipset": "AMD X570",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 2x PCIe x1",
+        "storage": "2x M.2, 8x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "overclockMaster",
+          "rating": 5
+        },
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "overclockMaster",
+          "comment": "Unmatched power delivery for extreme overclocking."
+        },
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Great board for high-performance gaming setups."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/b560mh-e-2-0/b560mh-e-2-0-01-228x228.webp",
+      "name": "GIGABYTE X570 AORUS Elite WIFI",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 189.99,
+      "description": "GIGABYTE X570 AORUS Elite WIFI is a feature-rich motherboard with built-in Wi-Fi connectivity.",
+      "keyFeatures": {
+        "brand": "GIGABYTE",
+        "model": "X570 AORUS Elite WIFI",
+        "socket": "AM4",
+        "chipset": "AMD X570",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 2x PCIe x1",
+        "storage": "2x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "wifiGamer",
+          "rating": 4
+        },
+        {
+          "username": "enthusiastUser",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "wifiGamer",
+          "comment": "Wi-Fi connectivity works flawlessly for online gaming."
+        },
+        {
+          "username": "enthusiastUser",
+          "comment": "Great motherboard for a feature-packed build."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h410m-b/pro-h410m-b-01-228x228.jpg",
+      "name": "MSI MAG B460M Mortar",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "MSI MAG B460M Mortar is a Micro-ATX motherboard with a focus on gaming performance.",
+      "keyFeatures": {
+        "brand": "MSI",
+        "model": "MAG B460M Mortar",
+        "socket": "LGA1200",
+        "chipset": "Intel B460",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 2x PCIe x1",
+        "storage": "1x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 1, USB-C, HDMI, DisplayPort",
+        "formFactor": "Micro-ATX"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastY",
+          "rating": 4
+        },
+        {
+          "username": "pcBuilder2000",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastY",
+          "comment": "Satisfactory gaming performance at a reasonable price."
+        },
+        {
+          "username": "pcBuilder2000",
+          "comment": "Solid build quality and efficient layout for cable management."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/a520mh/a520mh-01-228x228.webp",
+      "name": "ASRock Z590 Steel Legend",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 199.99,
+      "description": "ASRock Z590 Steel Legend is a stylish ATX motherboard with excellent gaming and overclocking capabilities.",
+      "keyFeatures": {
+        "brand": "ASRock",
+        "model": "Z590 Steel Legend",
+        "socket": "LGA1200",
+        "chipset": "Intel Z590",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 2x PCIe x1",
+        "storage": "2x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamingLegend",
+          "rating": 4.5
+        },
+        {
+          "username": "overclockerPro",
+          "rating": 4
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "gamingLegend",
+          "comment": "Stylish design and excellent RGB lighting effects."
+        },
+        {
+          "username": "overclockerPro",
+          "comment": "Handles CPU overclocking with ease."
+        }
+      ]
     }
   ]
 }
