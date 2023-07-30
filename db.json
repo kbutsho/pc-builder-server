@@ -100,7 +100,7 @@
       "status": "In Stock",
       "price": 349.99,
       "description": "The AMD Ryzen 7 5800X delivers excellent performance for gaming and content creation.",
-      "key-features": {
+      "keyFeatures": {
         "brand": "AMD",
         "model": "Ryzen 7 5800X",
         "specification": "8 cores, 16 threads",
@@ -146,7 +146,7 @@
       "status": "Out of stock",
       "price": 269.99,
       "description": "The Intel Core i5-11600K is a capable processor for gaming and everyday computing tasks.",
-      "key-features": {
+      "keyFeatures": {
         "brand": "Intel",
         "model": "Core i5-11600K",
         "specification": "6 cores, 12 threads",
