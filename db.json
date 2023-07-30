@@ -1086,5 +1086,397 @@
         }
       ]
     }
+  ],
+  "ram": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/Component/Ram/Geil/evo%204gb-228x228.jpg",
+      "name": "Corsair Vengeance LPX 16GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 99.99,
+      "description": "Corsair Vengeance LPX is a high-performance DDR4 memory kit with 16GB capacity, ideal for gaming and multitasking.",
+      "keyFeatures": {
+        "brand": "Corsair",
+        "model": "Vengeance LPX",
+        "capacity": "16GB (2 x 8GB)",
+        "speed": "3200 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "gamerX",
+          "rating": 4.8
+        },
+        {
+          "username": "pcEnthusiast",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamerX",
+          "comment": "Fast and stable RAM for my gaming setup."
+        },
+        {
+          "username": "pcEnthusiast",
+          "comment": "Reliable performance and good overclocking potential."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8/xlr8-01-228x228.jpg",
+      "name": "G.SKILL Trident Z RGB 32GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 189.99,
+      "description": "G.SKILL Trident Z RGB offers stunning RGB lighting effects and excellent performance with 32GB capacity.",
+      "keyFeatures": {
+        "brand": "G.SKILL",
+        "model": "Trident Z RGB",
+        "capacity": "32GB (2 x 16GB)",
+        "speed": "3600 MHz",
+        "type": "DDR4",
+        "casLatency": "18",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "rgbGuru",
+          "rating": 4.5
+        },
+        {
+          "username": "gamingMaster",
+          "rating": 4.9
+        }
+      ],
+      "averageRating": 4.7,
+      "reviews": [
+        {
+          "username": "rgbGuru",
+          "comment": "The RGB lighting adds a beautiful touch to my build."
+        },
+        {
+          "username": "gamingMaster",
+          "comment": "High-quality RAM for both gaming and creative work."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/twinmos/8gb-3200mhz/8gb-3200mhz-228x228.jpg",
+      "name": "Crucial Ballistix 64GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 299.99,
+      "description": "Crucial Ballistix is a high-capacity DDR4 memory kit with 64GB, perfect for professional workstations and heavy multitasking.",
+      "keyFeatures": {
+        "brand": "Crucial",
+        "model": "Ballistix",
+        "capacity": "64GB (2 x 32GB)",
+        "speed": "3200 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "proUser",
+          "rating": 4.7
+        },
+        {
+          "username": "workstationMaster",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "proUser",
+          "comment": "Great for running virtual machines and memory-intensive tasks."
+        },
+        {
+          "username": "workstationMaster",
+          "comment": "Highly reliable and stable for professional use."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/4gb-ddr4-2666mhz/4gb-ddr4-2666mhz-1-228x228.jpg",
+      "name": "Kingston HyperX Fury 16GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 89.99,
+      "description": "Kingston HyperX Fury delivers reliable performance and sleek design with 16GB capacity, perfect for gaming enthusiasts.",
+      "keyFeatures": {
+        "brand": "Kingston",
+        "model": "HyperX Fury",
+        "capacity": "16GB (2 x 8GB)",
+        "speed": "2666 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.2V"
+      },
+      "rating": [
+        {
+          "username": "gamingFan",
+          "rating": 4.5
+        },
+        {
+          "username": "budgetGamer",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingFan",
+          "comment": "Affordable and reliable RAM for gaming needs."
+        },
+        {
+          "username": "budgetGamer",
+          "comment": "Performs well without breaking the bank."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-golden-4gb-ddr4-2666mhz/panther-golden-4gb-ddr4-2666mhz-01-228x228.jpg",
+      "name": "Team T-Force Delta RGB 32GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "Team T-Force Delta RGB features vibrant RGB lighting and 32GB capacity, offering a great balance between performance and aesthetics.",
+      "keyFeatures": {
+        "brand": "Team",
+        "model": "T-Force Delta RGB",
+        "capacity": "32GB (2 x 16GB)",
+        "speed": "3000 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "rgbLover",
+          "rating": 4.7
+        },
+        {
+          "username": "gamingEnthusiast",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "rgbLover",
+          "comment": "The RGB effects are stunning and customizable."
+        },
+        {
+          "username": "gamingEnthusiast",
+          "comment": "Good performance and visually appealing."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-ddr3-4gb-1600mhz/basic-ddr3-4gb-1600mhz-01-228x228.webp",
+      "name": "ADATA XPG Spectrix D50 RGB 64GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 249.99,
+      "description": "ADATA XPG Spectrix D50 RGB offers a blend of style and performance with 64GB capacity, perfect for gaming and content creation.",
+      "keyFeatures": {
+        "brand": "ADATA",
+        "model": "XPG Spectrix D50 RGB",
+        "capacity": "64GB (2 x 32GB)",
+        "speed": "3600 MHz",
+        "type": "DDR4",
+        "casLatency": "18",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "gamingProX",
+          "rating": 4.9
+        },
+        {
+          "username": "contentCreatorX",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamingProX",
+          "comment": "Reliable RAM with impressive RGB lighting effects."
+        },
+        {
+          "username": "contentCreatorX",
+          "comment": "Ideal for handling large media projects and multitasking."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-228x228.webp",
+      "name": "Crucial Ballistix MAX 32GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 189.99,
+      "description": "Crucial Ballistix MAX is high-performance memory designed for extreme gaming and overclocking, featuring 32GB capacity.",
+      "keyFeatures": {
+        "brand": "Crucial",
+        "model": "Ballistix MAX",
+        "capacity": "32GB (2 x 16GB)",
+        "speed": "4000 MHz",
+        "type": "DDR4",
+        "casLatency": "19",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "overclockMasterX",
+          "rating": 5
+        },
+        {
+          "username": "gamerExtreme",
+          "rating": 4.9
+        }
+      ],
+      "averageRating": 4.95,
+      "reviews": [
+        {
+          "username": "overclockMasterX",
+          "comment": "Achieves stable overclocks and top-notch performance."
+        },
+        {
+          "username": "gamerExtreme",
+          "comment": "Handles demanding games with ease."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/RAM/TwinMOS/TwinMOS%204GB%20DDR4%202400-228x228.jpg",
+      "name": "G.SKILL Ripjaws V 16GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 89.99,
+      "description": "G.SKILL Ripjaws V offers high-quality performance and reliability with 16GB capacity, suitable for gaming and daily tasks.",
+      "keyFeatures": {
+        "brand": "G.SKILL",
+        "model": "Ripjaws V",
+        "capacity": "16GB (2 x 8GB)",
+        "speed": "3000 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "gamingFanatic",
+          "rating": 4.6
+        },
+        {
+          "username": "dailyUser",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.55,
+      "reviews": [
+        {
+          "username": "gamingFanatic",
+          "comment": "Smooth performance in a wide range of games."
+        },
+        {
+          "username": "dailyUser",
+          "comment": "Reliable RAM for everyday use."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-228x228.webp",
+      "name": "Corsair Dominator Platinum RGB 32GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 279.99,
+      "description": "Corsair Dominator Platinum RGB combines performance and aesthetics with 32GB capacity and mesmerizing RGB lighting.",
+      "keyFeatures": {
+        "brand": "Corsair",
+        "model": "Dominator Platinum RGB",
+        "capacity": "32GB (4 x 8GB)",
+        "speed": "3200 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "rgbEnthusiast",
+          "rating": 4.9
+        },
+        {
+          "username": "performanceLover",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "rgbEnthusiast",
+          "comment": "The RGB lighting is simply mesmerizing."
+        },
+        {
+          "username": "performanceLover",
+          "comment": "Excellent RAM for both performance and style."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-4gb/jetram-4gb-01-228x228.webp",
+      "name": "Team T-Force Vulcan Z 16GB",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 79.99,
+      "description": "Team T-Force Vulcan Z delivers reliable performance with 16GB capacity, suitable for mainstream gaming and everyday computing.",
+      "keyFeatures": {
+        "brand": "Team",
+        "model": "T-Force Vulcan Z",
+        "capacity": "16GB (2 x 8GB)",
+        "speed": "3000 MHz",
+        "type": "DDR4",
+        "casLatency": "16",
+        "voltage": "1.35V"
+      },
+      "rating": [
+        {
+          "username": "casualGamer",
+          "rating": 4.5
+        },
+        {
+          "username": "everydayUser",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.6,
+      "reviews": [
+        {
+          "username": "casualGamer",
+          "comment": "Affordable RAM with decent performance for gaming."
+        },
+        {
+          "username": "everydayUser",
+          "comment": "Fast and reliable RAM for day-to-day tasks."
+        }
+      ]
+    }
   ]
 }
