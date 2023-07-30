@@ -2349,5 +2349,417 @@
         }
       ]
     }
+  ],
+  "monitor": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/uniview/mw3222-x/mw3222-x-228x228.webp",
+      "name": "Dell UltraSharp U2719D",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 349.99,
+      "description": "The Dell UltraSharp U2719D is a 27-inch IPS monitor with QHD resolution, providing stunning color accuracy.",
+      "keyFeatures": {
+        "brand": "Dell",
+        "model": "UltraSharp U2719D",
+        "displaySize": "27-inch",
+        "resolution": "2560 x 1440 (QHD)",
+        "panelType": "IPS",
+        "refreshRate": "60Hz",
+        "responseTime": "5ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "designProfessional",
+          "rating": 4.8
+        },
+        {
+          "username": "contentCreatorX",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "designProfessional",
+          "comment": "Excellent color reproduction for design work."
+        },
+        {
+          "username": "contentCreatorX",
+          "comment": "Perfect for editing high-resolution content."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/philips/226e9qhab/226e9qhab-01-228x228.webp",
+      "name": "ASUS ROG Swift PG279Q",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 699.99,
+      "description": "The ASUS ROG Swift PG279Q is a 27-inch gaming monitor with WQHD resolution and a high refresh rate.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "ROG Swift PG279Q",
+        "displaySize": "27-inch",
+        "resolution": "2560 x 1440 (WQHD)",
+        "panelType": "IPS",
+        "refreshRate": "165Hz",
+        "responseTime": "4ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "gamerEliteX",
+          "rating": 4.9
+        },
+        {
+          "username": "esportsPro",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamerEliteX",
+          "comment": "Smooth gaming experience with high refresh rate."
+        },
+        {
+          "username": "esportsPro",
+          "comment": "Ideal for competitive gaming and esports."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/philips/193v/193v-228x228.png",
+      "name": "LG 34GN850-B",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 799.99,
+      "description": "The LG 34GN850-B is a 34-inch ultrawide gaming monitor with QHD resolution and NVIDIA G-SYNC support.",
+      "keyFeatures": {
+        "brand": "LG",
+        "model": "34GN850-B",
+        "displaySize": "34-inch",
+        "resolution": "3440 x 1440 (QHD)",
+        "panelType": "Nano IPS",
+        "refreshRate": "160Hz",
+        "responseTime": "1ms (GtG)",
+        "aspectRatio": "21:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "ultrawideGamerX",
+          "rating": 4.8
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "ultrawideGamerX",
+          "comment": "Immersive gaming experience on an ultrawide screen."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Multitasking made easy with the ultrawide aspect ratio."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd215v04/wd215v04-01-228x228.webp",
+      "name": "Acer Predator XB271HU",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 699.99,
+      "description": "The Acer Predator XB271HU is a 27-inch gaming monitor with WQHD resolution and NVIDIA G-SYNC support.",
+      "keyFeatures": {
+        "brand": "Acer",
+        "model": "Predator XB271HU",
+        "displaySize": "27-inch",
+        "resolution": "2560 x 1440 (WQHD)",
+        "panelType": "IPS",
+        "refreshRate": "165Hz",
+        "responseTime": "4ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "gamingMasterX",
+          "rating": 4.8
+        },
+        {
+          "username": "proGamerPro",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamingMasterX",
+          "comment": "High-quality visuals and responsive gameplay."
+        },
+        {
+          "username": "proGamerPro",
+          "comment": "NVIDIA G-SYNC makes a noticeable difference."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/lm22-b200s/lm22-b200s-01-228x228.webp",
+      "name": "Samsung Odyssey G7",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 999.99,
+      "description": "The Samsung Odyssey G7 is a 32-inch curved gaming monitor with QHD resolution and 240Hz refresh rate.",
+      "keyFeatures": {
+        "brand": "Samsung",
+        "model": "Odyssey G7",
+        "displaySize": "32-inch",
+        "resolution": "2560 x 1440 (QHD)",
+        "panelType": "VA",
+        "refreshRate": "240Hz",
+        "responseTime": "1ms (MPRT)",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "curvedGamingFanatic",
+          "rating": 4.9
+        },
+        {
+          "username": "fpsPro",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "curvedGamingFanatic",
+          "comment": "Immersive gaming experience with the curved display."
+        },
+        {
+          "username": "fpsPro",
+          "comment": "Smooth and responsive gaming at high frame rates."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/dhi-lm22-c201/dhi-lm22-c201-228x228.webp",
+      "name": "Samsung Odyssey G7",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 999.99,
+      "description": "The Samsung Odyssey G7 is a 32-inch curved gaming monitor with QHD resolution and 240Hz refresh rate.",
+      "keyFeatures": {
+        "brand": "Samsung",
+        "model": "Odyssey G7",
+        "displaySize": "32-inch",
+        "resolution": "2560 x 1440 (QHD)",
+        "panelType": "VA",
+        "refreshRate": "240Hz",
+        "responseTime": "1ms (MPRT)",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "curvedGamingFanatic",
+          "rating": 4.9
+        },
+        {
+          "username": "fpsPro",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "curvedGamingFanatic",
+          "comment": "Immersive gaming experience with the curved display."
+        },
+        {
+          "username": "fpsPro",
+          "comment": "Smooth and responsive gaming at high frame rates."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/e20-30/e20-30-01-228x228.webp",
+      "name": "ViewSonic XG2402",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 229.99,
+      "description": "The ViewSonic XG2402 is a 24-inch gaming monitor with Full HD resolution and a 144Hz refresh rate.",
+      "keyFeatures": {
+        "brand": "ViewSonic",
+        "model": "XG2402",
+        "displaySize": "24-inch",
+        "resolution": "1920 x 1080 (Full HD)",
+        "panelType": "TN",
+        "refreshRate": "144Hz",
+        "responseTime": "1ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "gamerEliteX",
+          "rating": 4.7
+        },
+        {
+          "username": "esportsPro",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamerEliteX",
+          "comment": "Smooth gameplay with high refresh rate."
+        },
+        {
+          "username": "esportsPro",
+          "comment": "Great monitor for competitive gaming."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-228x228.jpg",
+      "name": "AOC CQ32G1",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 299.99,
+      "description": "The AOC CQ32G1 is a 31.5-inch curved gaming monitor with QHD resolution and a 144Hz refresh rate.",
+      "keyFeatures": {
+        "brand": "AOC",
+        "model": "CQ32G1",
+        "displaySize": "31.5-inch",
+        "resolution": "2560 x 1440 (QHD)",
+        "panelType": "VA",
+        "refreshRate": "144Hz",
+        "responseTime": "1ms (MPRT)",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "curvedGamingFanatic",
+          "rating": 4.8
+        },
+        {
+          "username": "fpsPro",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "curvedGamingFanatic",
+          "comment": "Immersive gaming experience with the curved display."
+        },
+        {
+          "username": "fpsPro",
+          "comment": "Smooth and responsive gaming at QHD resolution."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/v196hql/acer-v196hql-monitor-228x228.JPG",
+      "name": "HP VH240a",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "The HP VH240a is a 23.8-inch budget-friendly monitor with Full HD resolution and an ergonomic stand.",
+      "keyFeatures": {
+        "brand": "HP",
+        "model": "VH240a",
+        "displaySize": "23.8-inch",
+        "resolution": "1920 x 1080 (Full HD)",
+        "panelType": "IPS",
+        "refreshRate": "60Hz",
+        "responseTime": "5ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, VGA"
+      },
+      "rating": [
+        {
+          "username": "casualUser",
+          "rating": 4.4
+        },
+        {
+          "username": "officeWorkerX",
+          "rating": 4.3
+        }
+      ],
+      "averageRating": 4.35,
+      "reviews": [
+        {
+          "username": "casualUser",
+          "comment": "Good value for a basic monitor for everyday use."
+        },
+        {
+          "username": "officeWorkerX",
+          "comment": "Clear and comfortable display for office work."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/univision/led350/led350-01-228x228.png",
+      "name": "Philips 328E1CA",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 369.99,
+      "description": "The Philips 328E1CA is a 32-inch curved monitor with 4K UHD resolution and built-in speakers.",
+      "keyFeatures": {
+        "brand": "Philips",
+        "model": "328E1CA",
+        "displaySize": "32-inch",
+        "resolution": "3840 x 2160 (4K UHD)",
+        "panelType": "VA",
+        "refreshRate": "60Hz",
+        "responseTime": "4ms",
+        "aspectRatio": "16:9",
+        "connectors": "HDMI, DisplayPort"
+      },
+      "rating": [
+        {
+          "username": "4KContentLover",
+          "rating": 4.7
+        },
+        {
+          "username": "productivityPro",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "4KContentLover",
+          "comment": "Stunning visuals and crisp 4K resolution."
+        },
+        {
+          "username": "productivityPro",
+          "comment": "Great for multitasking and productivity tasks."
+        }
+      ]
+    }
   ]
 }
