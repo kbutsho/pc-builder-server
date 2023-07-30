@@ -2761,5 +2761,313 @@
         }
       ]
     }
+  ],
+  "others": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/gigabyte/rtx-3060-eagle-oc-12g/rtx-3060-eagle-oc-12g-228x228.jpg",
+      "name": "NVIDIA GeForce RTX 3080",
+      "category": "GPU",
+      "status": "In Stock",
+      "price": 799.99,
+      "description": "The NVIDIA GeForce RTX 3080 is a high-end graphics card with 10GB GDDR6X memory and real-time ray tracing.",
+      "keyFeatures": {
+        "brand": "NVIDIA",
+        "model": "GeForce RTX 3080",
+        "memory": "10GB GDDR6X",
+        "coreClock": "1710 MHz",
+        "boostClock": "1710 MHz",
+        "busWidth": "320-bit",
+        "connectors": "3 x DisplayPort, 1 x HDMI"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.9
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Incredible performance for gaming at 4K."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Great for rendering and video editing tasks."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gtx-1650-nb-4gd6-v3-v/geforce-gtx-1650-nb-4gd6-v3-v-01-228x228.webp",
+      "name": "AMD Radeon RX 6800 XT",
+      "category": "GPU",
+      "status": "In Stock",
+      "price": 749.99,
+      "description": "The AMD Radeon RX 6800 XT is a powerful graphics card with 16GB GDDR6 memory and support for AMD RDNA 2 architecture.",
+      "keyFeatures": {
+        "brand": "AMD",
+        "model": "Radeon RX 6800 XT",
+        "memory": "16GB GDDR6",
+        "coreClock": "2015 MHz",
+        "boostClock": "2250 MHz",
+        "busWidth": "256-bit",
+        "connectors": "2 x DisplayPort, 1 x HDMI"
+      },
+      "rating": [
+        {
+          "username": "amdFanX",
+          "rating": 4.8
+        },
+        {
+          "username": "gamerProMax",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "amdFanX",
+          "comment": "Excellent performance for AMD enthusiasts."
+        },
+        {
+          "username": "gamerProMax",
+          "comment": "Handles demanding games at high settings."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/imice/t98/t98-01-228x228.jpg",
+      "name": "Logitech G502 HERO",
+      "category": "Mouse",
+      "status": "In Stock",
+      "price": 69.99,
+      "description": "The Logitech G502 HERO is a high-performance gaming mouse with customizable weights and 16K DPI sensor.",
+      "keyFeatures": {
+        "brand": "Logitech",
+        "model": "G502 HERO",
+        "dpi": "100 - 16,000",
+        "buttons": "11 programmable buttons",
+        "pollingRate": "1000Hz",
+        "gripStyle": "Palm or Claw",
+        "connectivity": "Wired USB"
+      },
+      "rating": [
+        {
+          "username": "gamingProX",
+          "rating": 4.7
+        },
+        {
+          "username": "esportsMaster",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingProX",
+          "comment": "Comfortable grip and precise tracking."
+        },
+        {
+          "username": "esportsMaster",
+          "comment": "Responsive mouse for competitive gaming."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/imice/T97/T97-01-228x228.jpg",
+      "name": "Razer DeathAdder V2",
+      "category": "Mouse",
+      "status": "In Stock",
+      "price": 59.99,
+      "description": "The Razer DeathAdder V2 is a gaming mouse with Razer Optical Mouse Switches and 20K DPI Focus+ Optical Sensor.",
+      "keyFeatures": {
+        "brand": "Razer",
+        "model": "DeathAdder V2",
+        "dpi": "200 - 20,000",
+        "buttons": "8 programmable buttons",
+        "pollingRate": "1000Hz",
+        "gripStyle": "Palm or Claw",
+        "connectivity": "Wired USB"
+      },
+      "rating": [
+        {
+          "username": "razerFanaticX",
+          "rating": 4.8
+        },
+        {
+          "username": "fpsProGamer",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "razerFanaticX",
+          "comment": "Sleek design and responsive buttons."
+        },
+        {
+          "username": "fpsProGamer",
+          "comment": "Great mouse for fast-paced shooters."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/redragon-k551rgb-mitra-rgb-backlit-mechanical-keyboard",
+      "name": "Corsair K70 RGB MK.2",
+      "category": "Keyboard",
+      "status": "In Stock",
+      "price": 139.99,
+      "description": "The Corsair K70 RGB MK.2 is a mechanical gaming keyboard with per-key RGB backlighting and dedicated media controls.",
+      "keyFeatures": {
+        "brand": "Corsair",
+        "model": "K70 RGB MK.2",
+        "keySwitches": "Cherry MX Red",
+        "backlighting": "Per-key RGB",
+        "connectivity": "Wired USB",
+        "additionalControls": "Dedicated media keys"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.8
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Smooth key presses with Cherry MX switches."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Customizable RGB lighting for a stylish setup."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/fantech-maxfit87-mk856-rgb-mechanical-keyboard",
+      "name": "SteelSeries Apex Pro",
+      "category": "Keyboard",
+      "status": "In Stock",
+      "price": 199.99,
+      "description": "The SteelSeries Apex Pro is a high-performance gaming keyboard with adjustable mechanical switches and customizable RGB.",
+      "keyFeatures": {
+        "brand": "SteelSeries",
+        "model": "Apex Pro",
+        "keySwitches": "OmniPoint Adjustable Mechanical",
+        "backlighting": "Per-key RGB",
+        "connectivity": "Wired USB",
+        "additionalControls": "Dedicated media keys"
+      },
+      "rating": [
+        {
+          "username": "steelSeriesFanX",
+          "rating": 4.9
+        },
+        {
+          "username": "esportsProMax",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "steelSeriesFanX",
+          "comment": "OmniPoint switches offer great customization."
+        },
+        {
+          "username": "esportsProMax",
+          "comment": "Responsive keyboard for competitive gaming."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/headphone/turtle-beach/ear-force-recon-50/ear-force-recon-50-228x228.jpg",
+      "name": "HyperX Cloud II",
+      "category": "Headset",
+      "status": "In Stock",
+      "price": 99.99,
+      "description": "The HyperX Cloud II is a popular gaming headset with virtual 7.1 surround sound and memory foam ear cups.",
+      "keyFeatures": {
+        "brand": "HyperX",
+        "model": "Cloud II",
+        "sound": "Virtual 7.1 surround sound",
+        "connectivity": "Wired USB or 3.5mm jack",
+        "microphone": "Detachable noise-cancelling"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.7
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Clear audio and comfortable for long gaming sessions."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Great headset for voice recording and streaming."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/headphone/rapoo/vh710/vh710-010-228x228.jpg",
+      "name": "Razer BlackShark V2",
+      "category": "Headset",
+      "status": "In Stock",
+      "price": 99.99,
+      "description": "The Razer BlackShark V2 is a gaming headset with THX Spatial Audio and a detachable cardioid microphone.",
+      "keyFeatures": {
+        "brand": "Razer",
+        "model": "BlackShark V2",
+        "sound": "THX Spatial Audio",
+        "connectivity": "Wired USB or 3.5mm jack",
+        "microphone": "Detachable cardioid mic"
+      },
+      "rating": [
+        {
+          "username": "razerFanaticX",
+          "rating": 4.8
+        },
+        {
+          "username": "fpsProGamer",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "razerFanaticX",
+          "comment": "Great audio quality and comfortable to wear."
+        },
+        {
+          "username": "fpsProGamer",
+          "comment": "Precise microphone for clear voice communication."
+        }
+      ]
+    }
   ]
 }
