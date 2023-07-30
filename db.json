@@ -1,7 +1,7 @@
 {
   "cpu": [
     {
-      "id": 1,
+      "id": "1",
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900ks/i9-12900ks-01-228x228.jpg",
       "name": "Intel Core i9-12700K",
       "category": "CPU",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-228x228.webp",
       "name": "AMD Ryzen 9 5900X",
       "category": "CPU",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
       "name": "AMD Ryzen 7 5800X",
       "category": "CPU",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-228x228.webp",
       "name": "Intel Core i5-11600K",
       "category": "CPU",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700k/core-i7-13700k-01-228x228.webp",
       "name": "Intel Core i7-12600K",
       "category": "CPU",
