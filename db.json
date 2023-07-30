@@ -421,7 +421,7 @@
       ]
     }
   ],
-  "motherboard": [
+  "mother-board": [
     {
       "id": "1",
       "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-228x228.jpg",
@@ -1475,6 +1475,488 @@
         {
           "username": "everydayUser",
           "comment": "Fast and reliable RAM for day-to-day tasks."
+        }
+      ]
+    }
+  ],
+  "power-supply": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/kratos-m1-750b/kratos-m1-750b-01-228x228.jpg",
+      "name": "Corsair RM750x",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 139.99,
+      "description": "The Corsair RM750x is a high-quality modular power supply with 750W output, offering stable and efficient performance.",
+      "keyFeatures": {
+        "brand": "Corsair",
+        "model": "RM750x",
+        "wattage": "750W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "140mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "pcBuilderPro",
+          "rating": 4.8
+        },
+        {
+          "username": "gamingEnthusiast",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "pcBuilderPro",
+          "comment": "Reliable and efficient PSU for custom builds."
+        },
+        {
+          "username": "gamingEnthusiast",
+          "comment": "Keeps my high-end gaming rig powered without issues."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/montech/beta-550/beta-550-01-228x228.webp",
+      "name": "EVGA Supernova 850 G5",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 179.99,
+      "description": "The EVGA Supernova 850 G5 is a fully modular power supply with 850W output, designed for enthusiasts and gamers.",
+      "keyFeatures": {
+        "brand": "EVGA",
+        "model": "Supernova 850 G5",
+        "wattage": "850W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "135mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "gamingMasterX",
+          "rating": 4.9
+        },
+        {
+          "username": "techEnthusiast",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamingMasterX",
+          "comment": "Efficient and reliable PSU for high-end gaming PCs."
+        },
+        {
+          "username": "techEnthusiast",
+          "comment": "Great power delivery and quiet operation."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/cooler-master/mwe-450w-v2/mwe-450w-v2-228x228.jpg",
+      "name": "Seasonic Focus GX-650",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 109.99,
+      "description": "The Seasonic Focus GX-650 is a compact and efficient power supply with 650W output, suitable for mid-range builds.",
+      "keyFeatures": {
+        "brand": "Seasonic",
+        "model": "Focus GX-650",
+        "wattage": "650W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "120mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "pcEnthusiastX",
+          "rating": 4.7
+        },
+        {
+          "username": "budgetBuilder",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.6,
+      "reviews": [
+        {
+          "username": "pcEnthusiastX",
+          "comment": "Provides stable power and runs quietly."
+        },
+        {
+          "username": "budgetBuilder",
+          "comment": "Good value for a reliable PSU."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/csk-450/csk-450-bronze-01-228x228.jpg",
+      "name": "Seasonic Focus GX-650",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 109.99,
+      "description": "The Seasonic Focus GX-650 is a compact and efficient power supply with 650W output, suitable for mid-range builds.",
+      "keyFeatures": {
+        "brand": "Seasonic",
+        "model": "Focus GX-650",
+        "wattage": "650W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "120mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "pcEnthusiastX",
+          "rating": 4.7
+        },
+        {
+          "username": "budgetBuilder",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.6,
+      "reviews": [
+        {
+          "username": "pcEnthusiastX",
+          "comment": "Provides stable power and runs quietly."
+        },
+        {
+          "username": "budgetBuilder",
+          "comment": "Good value for a reliable PSU."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/antec-atom/antec-atom-01-228x228.jpg",
+      "name": "Thermaltake Toughpower GF1 850W",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "The Thermaltake Toughpower GF1 850W is a high-performance power supply with 850W output, suitable for gaming and high-end systems.",
+      "keyFeatures": {
+        "brand": "Thermaltake",
+        "model": "Toughpower GF1 850W",
+        "wattage": "850W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "140mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "gamingProElite",
+          "rating": 4.9
+        },
+        {
+          "username": "enthusiastBuilder",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamingProElite",
+          "comment": "A powerful PSU for my gaming and streaming setup."
+        },
+        {
+          "username": "enthusiastBuilder",
+          "comment": "Reliable and efficient power delivery."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/p450b/p450b-228x228.jpg",
+      "name": "NZXT C Series C750",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 149.99,
+      "description": "The NZXT C Series C750 is a compact and efficient power supply with 750W output, featuring an elegant design.",
+      "keyFeatures": {
+        "brand": "NZXT",
+        "model": "C Series C750",
+        "wattage": "750W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "120mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "pcBuilderX",
+          "rating": 4.7
+        },
+        {
+          "username": "designEnthusiast",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "pcBuilderX",
+          "comment": "Compact and reliable PSU for my PC builds."
+        },
+        {
+          "username": "designEnthusiast",
+          "comment": "Sleek design complements my build aesthetics."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/aura-gp550/aura-gp550-01-228x228.webp",
+      "name": "SilverStone Strider Platinum 550W",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "The SilverStone Strider Platinum 550W is a high-efficiency power supply with 550W output, suitable for small form factor builds.",
+      "keyFeatures": {
+        "brand": "SilverStone",
+        "model": "Strider Platinum 550W",
+        "wattage": "550W",
+        "certification": "80 Plus Platinum",
+        "modular": true,
+        "fanSize": "120mm",
+        "efficiency": "92%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "sffBuilder",
+          "rating": 4.8
+        },
+        {
+          "username": "energySaver",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "sffBuilder",
+          "comment": "Perfect fit for my compact PC build."
+        },
+        {
+          "username": "energySaver",
+          "comment": "Power-efficient PSU with low noise."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/power-train/pt-p200b/pt-p200b-01-228x228.webp",
+      "name": "be quiet! Straight Power 11 750W",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "The be quiet! Straight Power 11 750W is a silent and reliable power supply with 750W output, designed for quiet computing.",
+      "keyFeatures": {
+        "brand": "be quiet!",
+        "model": "Straight Power 11 750W",
+        "wattage": "750W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "135mm",
+        "efficiency": "92%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "quietPCBuilder",
+          "rating": 4.9
+        },
+        {
+          "username": "silenceEnthusiast",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "quietPCBuilder",
+          "comment": "Keeps my PC whisper-quiet while delivering ample power."
+        },
+        {
+          "username": "silenceEnthusiast",
+          "comment": "Ideal for noise-sensitive builds without compromising performance."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/fsp/hydro-k-pro-500w/hydro-k-pro-500w-228x228.webp",
+      "name": "Antec Earthwatts Gold Pro 650W",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 109.99,
+      "description": "The Antec Earthwatts Gold Pro 650W is an eco-friendly and efficient power supply with 650W output.",
+      "keyFeatures": {
+        "brand": "Antec",
+        "model": "Earthwatts Gold Pro 650W",
+        "wattage": "650W",
+        "certification": "80 Plus Gold",
+        "modular": false,
+        "fanSize": "120mm",
+        "efficiency": "87%+",
+        "connectors": "Semi-modular cables"
+      },
+      "rating": [
+        {
+          "username": "ecoConscious",
+          "rating": 4.7
+        },
+        {
+          "username": "budgetBuilderX",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "ecoConscious",
+          "comment": "An environmentally friendly PSU with good efficiency."
+        },
+        {
+          "username": "budgetBuilderX",
+          "comment": "Affordable and reliable for budget builds."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/revenger/vp-350/vp-350-01-228x228.webp",
+      "name": "ROG Strix 850G",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 179.99,
+      "description": "The ROG Strix 850G is a high-performance power supply with 850W output, featuring ASUS Aura Sync RGB lighting.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "ROG Strix 850G",
+        "wattage": "850W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "135mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "rogEnthusiast",
+          "rating": 4.9
+        },
+        {
+          "username": "rgbLoverX",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "rogEnthusiast",
+          "comment": "Premium PSU with great performance and RGB lighting."
+        },
+        {
+          "username": "rgbLoverX",
+          "comment": "The RGB lighting syncs perfectly with my other ASUS components."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/ovo/ops-p4-450w/ops-p4-450w-02-228x228.webp",
+      "name": "Rosewill Capstone 750M",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "The Rosewill Capstone 750M is a reliable and efficient modular power supply with 750W output.",
+      "keyFeatures": {
+        "brand": "Rosewill",
+        "model": "Capstone 750M",
+        "wattage": "750W",
+        "certification": "80 Plus Gold",
+        "modular": true,
+        "fanSize": "135mm",
+        "efficiency": "90%+",
+        "connectors": "Fully modular cables"
+      },
+      "rating": [
+        {
+          "username": "pcBuilderProX",
+          "rating": 4.8
+        },
+        {
+          "username": "techGuruX",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "pcBuilderProX",
+          "comment": "Solid PSU choice for my custom builds."
+        },
+        {
+          "username": "techGuruX",
+          "comment": "Efficient and stable power delivery."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/thermaltake/toughpower-gf1-argb-850w/toughpower-gf1-argb-850w-228x228.jpg",
+      "name": "Thermaltake Smart 600W",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": 69.99,
+      "description": "The Thermaltake Smart 600W is a cost-effective power supply with 600W output, ideal for entry-level systems.",
+      "keyFeatures": {
+        "brand": "Thermaltake",
+        "model": "Smart 600W",
+        "wattage": "600W",
+        "certification": "80 Plus White",
+        "modular": false,
+        "fanSize": "120mm",
+        "efficiency": "80%+",
+        "connectors": "Non-modular cables"
+      },
+      "rating": [
+        {
+          "username": "budgetGamerX",
+          "rating": 4.5
+        },
+        {
+          "username": "entryLevelBuilder",
+          "rating": 4.4
+        }
+      ],
+      "averageRating": 4.45,
+      "reviews": [
+        {
+          "username": "budgetGamerX",
+          "comment": "Affordable PSU that gets the job done."
+        },
+        {
+          "username": "entryLevelBuilder",
+          "comment": "Decent performance for budget builds."
         }
       ]
     }
