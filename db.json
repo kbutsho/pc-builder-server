@@ -1960,5 +1960,394 @@
         }
       ]
     }
+  ],
+  "storage": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/alphapro-128gb/alphapro-128gb-228x228.png",
+      "name": "Samsung 970 EVO Plus 500GB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 99.99,
+      "description": "The Samsung 970 EVO Plus is a high-speed NVMe SSD with 500GB capacity, offering fast and reliable storage.",
+      "keyFeatures": {
+        "brand": "Samsung",
+        "model": "970 EVO Plus",
+        "capacity": "500GB",
+        "interface": "NVMe PCIe 3.0 x4",
+        "formFactor": "M.2",
+        "readSpeed": "3500 MB/s",
+        "writeSpeed": "3200 MB/s"
+      },
+      "rating": [
+        {
+          "username": "pcEnthusiastX",
+          "rating": 4.9
+        },
+        {
+          "username": "gamerEliteX",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "pcEnthusiastX",
+          "comment": "Blazing fast SSD for OS and applications."
+        },
+        {
+          "username": "gamerEliteX",
+          "comment": "Reduced game loading times significantly."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33/mp33-010-228x228.jpg",
+      "name": "Western Digital Blue 1TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 79.99,
+      "description": "The WD Blue is a reliable SATA SSD with 1TB capacity, providing ample storage for various applications.",
+      "keyFeatures": {
+        "brand": "Western Digital",
+        "model": "Blue",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "formFactor": "2.5-inch",
+        "readSpeed": "560 MB/s",
+        "writeSpeed": "530 MB/s"
+      },
+      "rating": [
+        {
+          "username": "budgetBuilderX",
+          "rating": 4.7
+        },
+        {
+          "username": "everydayUser",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "budgetBuilderX",
+          "comment": "Affordable and reliable storage for my builds."
+        },
+        {
+          "username": "everydayUser",
+          "comment": "Speedy and spacious SSD for everyday use."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/patriot/p300/p300-128gb-001-228x228.jpg",
+      "name": "Seagate Barracuda pro 2TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 59.99,
+      "description": "The Seagate Barracuda is a cost-effective 2TB HDD, providing large storage capacity for media and data.",
+      "keyFeatures": {
+        "brand": "Seagate",
+        "model": "Barracuda",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "formFactor": "3.5-inch",
+        "speed": "7200 RPM"
+      },
+      "rating": [
+        {
+          "username": "storageEnthusiast",
+          "rating": 4.6
+        },
+        {
+          "username": "mediaCreator",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.55,
+      "reviews": [
+        {
+          "username": "storageEnthusiast",
+          "comment": "Great value for large storage needs."
+        },
+        {
+          "username": "mediaCreator",
+          "comment": "Plenty of space for my media projects."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cx1/cx1-01-228x228.jpg",
+      "name": "Crucial MX500 1TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 89.99,
+      "description": "The Crucial MX500 is a reliable SATA SSD with 1TB capacity, suitable for gaming and content creation.",
+      "keyFeatures": {
+        "brand": "Crucial",
+        "model": "MX500",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "formFactor": "2.5-inch",
+        "readSpeed": "560 MB/s",
+        "writeSpeed": "510 MB/s"
+      },
+      "rating": [
+        {
+          "username": "gamingMasterX",
+          "rating": 4.8
+        },
+        {
+          "username": "contentCreatorX",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamingMasterX",
+          "comment": "Fast and reliable SSD for my gaming rig."
+        },
+        {
+          "username": "contentCreatorX",
+          "comment": "Handles large media files with ease."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/biwintech/nx500/nx500-01-228x228.webp",
+      "name": "Intel ultra 665p 1TB max",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 109.99,
+      "description": "The Intel 665p is a QLC NVMe SSD with 1TB capacity, offering a good balance of performance and storage.",
+      "keyFeatures": {
+        "brand": "Intel",
+        "model": "665p",
+        "capacity": "1TB",
+        "interface": "NVMe PCIe 3.0 x4",
+        "formFactor": "M.2",
+        "readSpeed": "2000 MB/s",
+        "writeSpeed": "1925 MB/s"
+      },
+      "rating": [
+        {
+          "username": "performanceSeeker",
+          "rating": 4.6
+        },
+        {
+          "username": "storageLoverX",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.55,
+      "reviews": [
+        {
+          "username": "performanceSeeker",
+          "comment": "Good NVMe drive for the price."
+        },
+        {
+          "username": "storageLoverX",
+          "comment": "A reliable SSD with ample storage space."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/msi/spatium-s270/spatium-s270-01-228x228.webp",
+      "name": "ADATA SU800 256GB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 49.99,
+      "description": "The ADATA SU800 is a budget-friendly SATA SSD with 256GB capacity, suitable for entry-level builds.",
+      "keyFeatures": {
+        "brand": "ADATA",
+        "model": "SU800",
+        "capacity": "256GB",
+        "interface": "SATA III",
+        "formFactor": "2.5-inch",
+        "readSpeed": "560 MB/s",
+        "writeSpeed": "520 MB/s"
+      },
+      "rating": [
+        {
+          "username": "budgetBuilderX",
+          "rating": 4.4
+        },
+        {
+          "username": "entryLevelBuilder",
+          "rating": 4.3
+        }
+      ],
+      "averageRating": 4.35,
+      "reviews": [
+        {
+          "username": "budgetBuilderX",
+          "comment": "Affordable SSD for my budget builds."
+        },
+        {
+          "username": "entryLevelBuilder",
+          "comment": "Decent performance for entry-level PCs."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n930e-pro-128gb/n930e-pro-128gb-228x228.jpg",
+      "name": "Toshiba X300 4TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "The Toshiba X300 is a high-capacity 7200 RPM HDD with 4TB storage, ideal for multimedia and gaming.",
+      "keyFeatures": {
+        "brand": "Toshiba",
+        "model": "X300",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "formFactor": "3.5-inch",
+        "speed": "7200 RPM"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.7
+        },
+        {
+          "username": "mediaCollector",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Plenty of storage space for my game library."
+        },
+        {
+          "username": "mediaCollector",
+          "comment": "Great for storing my vast media collection."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/128gb-m-2-2280-sataiii-ssd/128gb-m-2-2280-sataiii-ssd-01-228x228.webp",
+      "name": "Gigabyte AORUS Gen4 2TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 379.99,
+      "description": "The Gigabyte AORUS Gen4 is a high-speed 2TB NVMe SSD, offering exceptional performance for demanding tasks.",
+      "keyFeatures": {
+        "brand": "Gigabyte",
+        "model": "AORUS Gen4",
+        "capacity": "2TB",
+        "interface": "NVMe PCIe 4.0 x4",
+        "formFactor": "M.2",
+        "readSpeed": "5000 MB/s",
+        "writeSpeed": "4400 MB/s"
+      },
+      "rating": [
+        {
+          "username": "enthusiastGamerX",
+          "rating": 4.9
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "enthusiastGamerX",
+          "comment": "Unbelievably fast NVMe SSD for gaming and rendering."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Handles large media projects with ease."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n-128gb/n535n-128gb-228x228.jpg",
+      "name": "SanDisk Ultra 128GB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 29.99,
+      "description": "The SanDisk Ultra is a compact and affordable USB flash drive with 128GB storage capacity.",
+      "keyFeatures": {
+        "brand": "SanDisk",
+        "model": "Ultra",
+        "capacity": "128GB",
+        "interface": "USB 3.0",
+        "formFactor": "USB Flash Drive",
+        "readSpeed": "130 MB/s",
+        "writeSpeed": "40 MB/s"
+      },
+      "rating": [
+        {
+          "username": "casualUser",
+          "rating": 4.3
+        },
+        {
+          "username": "onTheGoX",
+          "rating": 4.2
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "casualUser",
+          "comment": "Plenty of storage for my documents and photos."
+        },
+        {
+          "username": "onTheGoX",
+          "comment": "Convenient for transferring files on the go."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/s700-228x228.jpg",
+      "name": "Seagate Expansion 6TB",
+      "category": "Storage",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "The Seagate Expansion is a high-capacity external HDD with 6TB storage, ideal for backups and data storage.",
+      "keyFeatures": {
+        "brand": "Seagate",
+        "model": "Expansion",
+        "capacity": "6TB",
+        "interface": "USB 3.0",
+        "formFactor": "External Hard Drive",
+        "speed": "5400 RPM"
+      },
+      "rating": [
+        {
+          "username": "storageProX",
+          "rating": 4.6
+        },
+        {
+          "username": "dataBackupMaster",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.55,
+      "reviews": [
+        {
+          "username": "storageProX",
+          "comment": "Massive storage for my data archiving needs."
+        },
+        {
+          "username": "dataBackupMaster",
+          "comment": "Reliable backup solution with ample space."
+        }
+      ]
+    }
   ]
 }
