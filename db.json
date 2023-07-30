@@ -3068,6 +3068,160 @@
           "comment": "Precise microphone for clear voice communication."
         }
       ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/gigabyte/aorus-geforce-rtx-4090-master-24g/aorus-geforce-rtx-4090-master-24g-01-228x228.webp",
+      "name": "AMD Radeon RX 6700 XT",
+      "category": "GPU",
+      "status": "In Stock",
+      "price": 499.99,
+      "description": "The AMD Radeon RX 6700 XT is a high-performance graphics card with 12GB GDDR6 memory and support for AMD RDNA 2 architecture.",
+      "keyFeatures": {
+        "brand": "AMD",
+        "model": "Radeon RX 6700 XT",
+        "memory": "12GB GDDR6",
+        "coreClock": "2321 MHz",
+        "boostClock": "2581 MHz",
+        "busWidth": "192-bit",
+        "connectors": "3 x DisplayPort, 1 x HDMI"
+      },
+      "rating": [
+        {
+          "username": "amdFanX",
+          "rating": 4.7
+        },
+        {
+          "username": "gamerProMax",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "amdFanX",
+          "comment": "Great value for performance and price."
+        },
+        {
+          "username": "gamerProMax",
+          "comment": "Handles modern games at high settings."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/aula/s20/aula-s20-optical-gaming-mouse-01-228x228.webp",
+      "name": "Logitech G Pro X Superlight",
+      "category": "Mouse",
+      "status": "In Stock",
+      "price": 149.99,
+      "description": "The Logitech G Pro X Superlight is a lightweight gaming mouse with HERO 25K sensor and ultra-fast response.",
+      "keyFeatures": {
+        "brand": "Logitech",
+        "model": "G Pro X Superlight",
+        "dpi": "100 - 25,600",
+        "buttons": "5 programmable buttons",
+        "pollingRate": "1000Hz",
+        "gripStyle": "Claw or Fingertip",
+        "connectivity": "Wireless (USB receiver)"
+      },
+      "rating": [
+        {
+          "username": "gamingProX",
+          "rating": 4.9
+        },
+        {
+          "username": "esportsMaster",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.85,
+      "reviews": [
+        {
+          "username": "gamingProX",
+          "comment": "Incredibly lightweight and precise tracking."
+        },
+        {
+          "username": "esportsMaster",
+          "comment": "Perfect mouse for competitive gaming."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/redragon/k568-rgb-dark-avenger/k568-rgb-dark-avenger-01-228x228.jpg",
+      "name": "Corsair K95 RGB Platinum XT",
+      "category": "Keyboard",
+      "status": "In Stock",
+      "price": 179.99,
+      "description": "The Corsair K95 RGB Platinum XT is a premium mechanical gaming keyboard with per-key RGB backlighting and dedicated media controls.",
+      "keyFeatures": {
+        "brand": "Corsair",
+        "model": "K95 RGB Platinum XT",
+        "keySwitches": "Cherry MX Brown",
+        "backlighting": "Per-key RGB",
+        "connectivity": "Wired USB",
+        "additionalControls": "Dedicated media keys, macro keys"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.8
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Tactile switches provide a great typing experience."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "High-quality keyboard with customizable lighting."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://www.startech.com.bd/image/cache/catalog/headphone/a4tech/g437/j43t-army-green-228x228.jpg",
+      "name": "HyperX Cloud Flight S",
+      "category": "Headset",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "The HyperX Cloud Flight S is a wireless gaming headset with 7.1 surround sound and built-in controls on earcups.",
+      "keyFeatures": {
+        "brand": "HyperX",
+        "model": "Cloud Flight S",
+        "sound": "Virtual 7.1 surround sound",
+        "connectivity": "Wireless (USB receiver)",
+        "microphone": "Detachable noise-cancelling",
+        "batteryLife": "Up to 30 hours"
+      },
+      "rating": [
+        {
+          "username": "gamingEnthusiastX",
+          "rating": 4.7
+        },
+        {
+          "username": "contentCreatorElite",
+          "rating": 4.6
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingEnthusiastX",
+          "comment": "Comfortable and clear audio for long gaming sessions."
+        },
+        {
+          "username": "contentCreatorElite",
+          "comment": "Wireless freedom and great microphone."
+        }
+      ]
     }
   ]
 }
