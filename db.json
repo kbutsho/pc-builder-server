@@ -229,6 +229,196 @@
           "comment": "Handles multitasking like a breeze!"
         }
       ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-228x228.jpg",
+      "name": "AMD Ryzen 3 3900X",
+      "category": "CPU",
+      "status": "In Stock",
+      "price": 529.99,
+      "description": "The AMD Ryzen 3 3900X is a high-performance processor with 12 cores and 24 threads, perfect for gaming and content creation.",
+      "keyFeatures": {
+        "brand": "AMD",
+        "model": "Ryzen 9 5900X",
+        "specification": "12 cores, 24 threads",
+        "socket": "AM4",
+        "clockSpeed": "3.7 GHz base, up to 4.8 GHz boost",
+        "tdp": "105W"
+      },
+      "rating": [
+        {
+          "username": "gamer123",
+          "rating": 5
+        },
+        {
+          "username": "contentCreator",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "gamer123",
+          "comment": "Unbeatable performance in gaming."
+        },
+        {
+          "username": "contentCreator",
+          "comment": "Efficient for 3D rendering and video editing."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-13100/core-i3-13100-01-228x228.webp",
+      "name": "Intel Core i3-12900K",
+      "category": "CPU",
+      "status": "In Stock",
+      "price": 649.99,
+      "description": "The Intel Core i3-12900K is a high-end processor with 16 cores and 24 threads, designed for extreme gaming and performance-driven tasks.",
+      "keyFeatures": {
+        "brand": "Intel",
+        "model": "Core i3-12900K",
+        "specification": "16 cores, 24 threads",
+        "socket": "LGA1700",
+        "clockSpeed": "3.2 GHz base, up to 5.3 GHz boost",
+        "tdp": "125W"
+      },
+      "rating": [
+        {
+          "username": "proGamerX",
+          "rating": 5
+        },
+        {
+          "username": "techEnthusiast",
+          "rating": 4
+        }
+      ],
+      "averageRating": 4.5,
+      "reviews": [
+        {
+          "username": "proGamerX",
+          "comment": "The ultimate gaming beast!"
+        },
+        {
+          "username": "techEnthusiast",
+          "comment": "Handles demanding applications with ease."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
+      "name": "AMD Ryzen 3 5800X",
+      "category": "CPU",
+      "status": "In Stock",
+      "price": 399.99,
+      "description": "The AMD Ryzen 3 5800X is a high-performance processor with 8 cores and 16 threads, ideal for gaming and multitasking.",
+      "keyFeatures": {
+        "brand": "AMD",
+        "model": "Ryzen 3 5800X",
+        "specification": "8 cores, 16 threads",
+        "socket": "AM4",
+        "clockSpeed": "3.8 GHz base, up to 4.7 GHz boost",
+        "tdp": "105W"
+      },
+      "rating": [
+        {
+          "username": "gamingPro",
+          "rating": 4.5
+        },
+        {
+          "username": "techGuru",
+          "rating": 4.8
+        }
+      ],
+      "averageRating": 4.65,
+      "reviews": [
+        {
+          "username": "gamingPro",
+          "comment": "Impressive performance in AAA games."
+        },
+        {
+          "username": "techGuru",
+          "comment": "Excellent value for its price."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100/i3-12100-228x228.jpg",
+      "name": "Intel Core i5-11600K",
+      "category": "CPU",
+      "status": "In Stock",
+      "price": 279.99,
+      "description": "The Intel Core i5-11600K is a powerful processor with 6 cores and 12 threads, optimized for gaming performance.",
+      "keyFeatures": {
+        "brand": "Intel",
+        "model": "Core i5-11600K",
+        "specification": "6 cores, 12 threads",
+        "socket": "LGA1200",
+        "clockSpeed": "3.9 GHz base, up to 4.9 GHz boost",
+        "tdp": "125W"
+      },
+      "rating": [
+        {
+          "username": "gamerElite",
+          "rating": 4
+        },
+        {
+          "username": "pcBuilderPro",
+          "rating": 4.2
+        }
+      ],
+      "averageRating": 4.1,
+      "reviews": [
+        {
+          "username": "gamerElite",
+          "comment": "Handles most modern games at high settings."
+        },
+        {
+          "username": "pcBuilderPro",
+          "comment": "Great for building a mid-range gaming PC."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-4500/amd-ryzen-5-4500-01-228x228.jpg",
+      "name": "AMD Ryzen 5 5600X",
+      "category": "CPU",
+      "status": "In Stock",
+      "price": 249.99,
+      "description": "The AMD Ryzen 5 5600X is a high-performance processor with 6 cores and 12 threads, optimized for gaming and multitasking.",
+      "keyFeatures": {
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X",
+        "specification": "6 cores, 12 threads",
+        "socket": "AM4",
+        "clockSpeed": "3.7 GHz base, up to 4.6 GHz boost",
+        "tdp": "65W"
+      },
+      "rating": [
+        {
+          "username": "gamerX",
+          "rating": 4.5
+        },
+        {
+          "username": "pcEnthusiast",
+          "rating": 4.7
+        }
+      ],
+      "averageRating": 4.6,
+      "reviews": [
+        {
+          "username": "gamerX",
+          "comment": "Good gaming performance without breaking the bank."
+        },
+        {
+          "username": "pcEnthusiast",
+          "comment": "An efficient and cool-running CPU for my build."
+        }
+      ]
     }
   ],
   "motherboard": [
