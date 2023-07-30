@@ -230,5 +230,261 @@
         }
       ]
     }
+  ],
+  "motherboard": [
+    {
+      "id": "1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-228x228.jpg",
+      "name": "ASUS ROG Strix Z590-E Gaming",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 289.99,
+      "description": "ASUS ROG Strix Z590-E Gaming is a high-end gaming motherboard with excellent overclocking capabilities.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "ROG Strix Z590-E Gaming",
+        "socket": "LGA1200",
+        "chipset": "Intel Z590",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 3x PCIe x1",
+        "storage": "2x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamer123",
+          "rating": 5
+        },
+        {
+          "username": "techguru",
+          "rating": 4
+        }
+      ],
+      "averageRating": 4.5,
+      "reviews": [
+        {
+          "username": "gamer123",
+          "comment": "This motherboard is a beast for gaming!"
+        },
+        {
+          "username": "techguru",
+          "comment": "Great VRM design for overclocking."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/h510mhp/h510mhp-01-228x228.webp",
+      "name": "GIGABYTE B550 AORUS Pro",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 189.99,
+      "description": "GIGABYTE B550 AORUS Pro is a feature-rich motherboard with support for high-speed PCIe 4.0 devices.",
+      "keyFeatures": {
+        "brand": "GIGABYTE",
+        "model": "B550 AORUS Pro",
+        "socket": "AM4",
+        "chipset": "AMD B550",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 2x PCIe x1",
+        "storage": "1x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "pcbuilder",
+          "rating": 4
+        },
+        {
+          "username": "gamingEnthusiast",
+          "rating": 5
+        },
+        {
+          "username": "techsavvy",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.5,
+      "reviews": [
+        {
+          "username": "pcbuilder",
+          "comment": "Good value for the features offered."
+        },
+        {
+          "username": "gamingEnthusiast",
+          "comment": "Supports high-speed NVMe SSDs for fast storage."
+        },
+        {
+          "username": "techsavvy",
+          "comment": "Easy to overclock with the BIOS settings."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-ds2/ga-h81m-ds2-1-228x228.jpg",
+      "name": "MSI MPG B560 Gaming Plus",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 159.99,
+      "description": "MSI MPG B560 Gaming Plus is a budget-friendly motherboard with solid gaming performance.",
+      "keyFeatures": {
+        "brand": "MSI",
+        "model": "MPG B560 Gaming Plus",
+        "socket": "LGA1200",
+        "chipset": "Intel B560",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "2x PCIe x16, 3x PCIe x1",
+        "storage": "1x M.2, 6x SATA",
+        "ports": "USB 3.2 Gen 1, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamer98",
+          "rating": 4
+        },
+        {
+          "username": "techlover",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "gamer98",
+          "comment": "Decent motherboard for gaming on a budget."
+        },
+        {
+          "username": "techlover",
+          "comment": "Easy installation and BIOS setup."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/b660mx-e/b660mx-e-01-228x228.webp",
+      "name": "ASRock X570 Taichi",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 299.99,
+      "description": "ASRock X570 Taichi is a premium motherboard with excellent power delivery for high-end CPUs.",
+      "keyFeatures": {
+        "brand": "ASRock",
+        "model": "X570 Taichi",
+        "socket": "AM4",
+        "chipset": "AMD X570",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "3x PCIe x16, 2x PCIe x1",
+        "storage": "3x M.2, 8x SATA",
+        "ports": "USB 3.2 Gen 2, USB-C, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "enthusiastGamer",
+          "rating": 5
+        },
+        {
+          "username": "pcbuilder2023",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.75,
+      "reviews": [
+        {
+          "username": "enthusiastGamer",
+          "comment": "This motherboard is perfect for my Ryzen 9 build."
+        },
+        {
+          "username": "pcbuilder2023",
+          "comment": "Top-notch VRM cooling and overclocking support."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
+      "name": "GIGABYTE B450 AORUS Elite",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 129.99,
+      "description": "GIGABYTE B450 AORUS Elite is a reliable motherboard for mid-range gaming and productivity.",
+      "keyFeatures": {
+        "brand": "GIGABYTE",
+        "model": "B450 AORUS Elite",
+        "socket": "AM4",
+        "chipset": "AMD B450",
+        "memorySlots": "4x DDR4",
+        "expansionSlots": "1x PCIe x16, 2x PCIe x1",
+        "storage": "1x M.2, 6x SATA",
+        "ports": "USB 3.1 Gen 2, HDMI, DisplayPort",
+        "formFactor": "ATX"
+      },
+      "rating": [
+        {
+          "username": "gamingFanatic",
+          "rating": 4
+        },
+        {
+          "username": "pcenthusiast",
+          "rating": 4.5
+        }
+      ],
+      "averageRating": 4.25,
+      "reviews": [
+        {
+          "username": "gamingFanatic",
+          "comment": "Solid motherboard for my Ryzen 5 setup."
+        },
+        {
+          "username": "pcenthusiast",
+          "comment": "Easy BIOS updates and stable performance."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-228x228.jpg",
+      "name": "ASUS Prime H310M-E",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 79.99,
+      "description": "ASUS Prime H310M-E is an entry-level motherboard suitable for basic computing needs.",
+      "keyFeatures": {
+        "brand": "ASUS",
+        "model": "Prime H310M-E",
+        "socket": "LGA1151",
+        "chipset": "Intel H310",
+        "memorySlots": "2x DDR4",
+        "expansionSlots": "1x PCIe x16, 2x PCIe x1",
+        "storage": "1x M.2, 4x SATA",
+        "ports": "USB 3.1 Gen 1, HDMI, VGA",
+        "formFactor": "Micro-ATX"
+      },
+      "rating": [
+        {
+          "username": "casualUser",
+          "rating": 3.5
+        },
+        {
+          "username": "budgetBuilder",
+          "rating": 4
+        }
+      ],
+      "averageRating": 3.75,
+      "reviews": [
+        {
+          "username": "casualUser",
+          "comment": "Simple motherboard for basic tasks."
+        },
+        {
+          "username": "budgetBuilder",
+          "comment": "Affordable and reliable option for a budget build."
+        }
+      ]
+    }
   ]
 }
